@@ -1,0 +1,27 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+
+}
+body
+{
+	background-color: blueviolet;
+}
+.header
+{
+	background-color: black;
+	padding: 20px;
+	color: ghostwhite;
+	display: flex;
+	justify-content:space-around ;
+
+
+
+}
+.header input
+{
+	padding-left: 0px;
+	margin-left: 0px;
+}
